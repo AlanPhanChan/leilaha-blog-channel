@@ -10,7 +10,7 @@ class MyDocument extends Document {
     const meta = {
       title: 'Leila Ha',
       description: 'The personal blog of Leila Ha',
-      image: 'https://i.imgur.com/BYFL0nw.png'
+      image: 'https://i.imgur.com/ha5Aq5tl.jpg'
     }
 
     return (
